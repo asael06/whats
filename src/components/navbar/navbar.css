@@ -1,0 +1,9 @@
+.nav-bar {
+  display: flex;
+  background-color: lightslategrey;
+}
+
+.nav-bar .chat-bar {
+ flex: 70%; 
+}
+
